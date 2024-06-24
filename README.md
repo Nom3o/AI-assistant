@@ -3,7 +3,6 @@
 ## Features
 
 - Voice-controlled interaction using `speech_recognition` and `pyttsx3` libraries.
-- Basic command recognition for tasks like fetching weather information, web searches, and more.
 - Graphical user interface (GUI) built with `tkinter` for easy interaction.
 
 ## Requirements
